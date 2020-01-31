@@ -36,7 +36,6 @@ Your organization may produce and store mission critical data, intellectual prop
 **Recovering trust is more costly than protecting private data**  
 The quote by McGeorge Bundy illustrates the importance of identifying key assets. Another example would be to compare the value of a medical practice's balance sheet of long-term assets (lease, medical equipment...) vs. a database containing patients' medical records. A stolen portable ultrasound machine could be replaced at the cost of thousands of dollars, without putting the future of the clinic at risk. A breach in the clinic's information systems, resulting in patient records getting into the wrong hands, could have a devastating effect on the clinic, both financially (litigation, regulatory investigations, fines) and in terms of the clinic's reputation.
 
-
 With the regulatory climate around the world for personal data protection heating up, establishing effective data privacy controls is a business imperative. The growth of data-driven applications increases the risks of personal data abuse. By setting up clear guidelines, raising employee awareness, embracing accountability and transparency in how they manage personal data, organizations boost loyalty and trust, improving their customer relationships. This provides a greater ROI from privacy spending and a competitive advantage for companies.
 
 ### Achieve higher ROI on your privacy investment
