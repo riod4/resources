@@ -1,7 +1,7 @@
 ---
 layout:     services
 title:      "Assess Risk"
-subtitle:   "The foundation of a risk management program."
+subtitle:   "The foundation of your private data management program"
 description: "A risk assessment is a valuable tool and the first step for an organization deciding how to counter risks to one of its most important assets: information."
 date:       2017-01-21 12:00:00
 permalink:  /assess-risk
