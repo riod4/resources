@@ -42,4 +42,4 @@ With the regulatory climate around the world for personal data protection heatin
 ### We help you achieve a higher ROI on your privacy investment
 By analyzing the exposure of data to threats and vulnerabilities, you can make informed decisions to mitigate the risk. A **risk assessment** is a valuable tool and the first step for an organization searching to mitigate risks and achieve a higher RIO on its privacy investments.
 
-To hear how we can help you create and maintain a resilient risk management program, get in touch. [**Contact us**]({{ site.baseurl }}/contact)
+To hear how we can help you maximize your privacy investments, get in touch. [**Contact us**]({{ site.baseurl }}/contact)
