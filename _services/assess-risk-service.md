@@ -13,7 +13,7 @@ header-credit-link: https://pixabay.com/en/hand-magnifying-glass-earth-globe-124
 header-license: CC0 Creative Commons
 ---
 
-## Data is one of your most valuable assets
+## Private data is a valuable asset
 Increasingly our world runs on data; some of it critical, much of it confidential. Information has become one of the most valuable assets an organization possesses. This [Harvard Business School article](https://digit.hbs.org/submission/caesars-entertainment-what-happens-in-vegas-ends-up-in-a-1billion-database/){:rel="nofollow noopener noreferrer"}{:target="_blank"} highlights Caesar’s Entertainment loyalty program, _Total Rewards_;
 
 > ### The most valuable asset in the Caesar’s Entertainment Corp. isn’t the fabulously-tacky Roman-themed resort on the Las Vegas strip.  It’s the company’s big data loyalty program, valued at $1 billion.
@@ -39,7 +39,7 @@ The quote by McGeorge Bundy illustrates the importance of identifying key assets
 
 With the regulatory climate around the world for personal data protection heating up, establishing effective data privacy controls is a business imperative. The growth of data-driven applications increases the risks of personal data abuse. By setting up clear guidelines, raising employee awareness, embracing accountability and transparency in how they manage personal data, organizations boost loyalty and trust, improving their customer relationships. This provides a greater ROI from privacy spending and a competitive advantage for companies.
 
-### We help you achieve a higher ROI on your privacy investment
+### Achieve higher ROI on your privacy investment
 By analyzing the exposure of data to threats and vulnerabilities, you can make informed decisions to mitigate the risk. A **risk assessment** is a valuable tool and the first step for an organization searching to mitigate risks and achieve a higher RIO on its privacy investments.
 
 To hear how we can help you maximize your privacy investments, get in touch. [**Contact us**]({{ site.baseurl }}/contact)
