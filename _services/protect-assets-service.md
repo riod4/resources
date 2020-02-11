@@ -1,7 +1,7 @@
 ---
 layout:     services
-title:      "Protect Assets"
-subtitle:   "Design security measures to protect your data."
+title:      "Enhance Value"
+subtitle:   "Optimizing privacy management to improve responsiveness."
 description: Organizations of all sizes need to identify key information, their vulnerabilities, and design security procedures that will protect them from cyber attacks."
 date:       2017-01-22 12:00:00
 permalink:  /protect-assets
