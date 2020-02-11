@@ -2,7 +2,7 @@
 layout:     services
 title:      "Enhance Value"
 subtitle:   "Optimizing privacy management to improve responsiveness."
-description: Organizations of all sizes need to identify key information, their vulnerabilities, and design security procedures that will protect them from cyber attacks."
+description: "Organizations that get privacy right improve their customer relationships, operational efficiency, and bottom-line results."
 date:       2017-01-22 12:00:00
 permalink:  /protect-assets
 author:     "dario"
@@ -22,7 +22,7 @@ Accountability has a number of important requirements. All organizations which p
 
 **Achieving compliance**
 
-![4 step compliance methodology](img/compliance4stepmethodology.png)
+![4 step compliance methodology](/img/compliance4stepmethodology.png)
 
 **Beyond compliance**  
 Identifying where an organization can gain a competitive advantage while complying with local and international privacy laws should be a top priority for any organization looking to thrive in an increasingly data-driven environment. Boosting operational efficiency, increasing sales, fostering trust, brand-building and corporate reputation can all be gained by developing a tailored privacy management program. Identifying and purging sensitive, redundant, obsolete and trivial data of no business value lowers operational costs. Lean, fine-tuned databases of highly relevant data increase productivity and efficiency. 
