@@ -1,7 +1,7 @@
 ---
 layout:     services
-title:      "Assess Risk"
-subtitle:   "The foundation for a private data management program"
+title:      "Assess Readiness"
+subtitle:   "Proposing data privacy solutions tailored to your objectives."
 description: "A risk assessment is a valuable tool and the first step for an organization searching to mitigate risks and achieve a higher RIO on its privacy investments."
 date:       2017-01-21 12:00:00
 permalink:  /assess-risk
