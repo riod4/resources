@@ -13,21 +13,18 @@ header-credit-link: https://pixabay.com/en/computers-information-technology-2652
 header-license: CC0 Creative Commons
 ---
 
-## We ensure the availability of your information
-The ever increasing complexity of modern day systems required by organizations in need of round-the-clock access to sensitive business information and confidential data needs special attention. Often a mix of cloud based architectures with a variety of clients including mobile devices, it is imperative to thoroughly analyze risk and adopt a comprehensive solution to safeguard valuable assets against evolving threats to the data's confidentiality, integrity and availability.
+## Why an optimized privacy management program matters
+A comprehensive privacy management program provides an effective way to satisfy regulators and assure compliance. But it is more than that. Done right, such a program helps foster a culture of privacy that builds trust, increases operational efficiency, and bottom-line results. Senior management support is vital in achieving business benefits when working on privacy compliance. When senior management provides the needed resources to ensure appropriate training and education, risk assessment and monitoring, and auditing, it sends a clear signal that privacy is vital to the organization. When an organization takes the position that privacy is vital to its operations by implementing a robust privacy management program, enhanced trust that is essential for customers and clients to engage with that organization follows. An organization that has a strong privacy management program enjoys an enhanced reputation that gives it a competitive edge. In the longer term, a privacy management program that is scaled to the organization’s needs will save money and make good business sense.
 
-**Setting up a comprehensive security solution**  
-Layered security, also known as layered defense, describes the practice of combining multiple security controls to protect resources and data. Using multiple layers together, and combining them in a coordinated effort, can greatly reduce most risks of accidental loss or cyberattacks. In the case of new, more sophisticated malware, a solution based on multiple layers of security (defensive tools combined with both online and offline backups) should be capable of slowing the attack down while enabling network monitors to detect the attack and raise the alarm before serious damage is done. If data is lost, systems can be restored quickly and with practically no downtime.
+**The fundamentals**  
+What should an organization do to ensure that it is handling personal information appropriately? How will it know that it is doing it right? How will it be able to demonstrate to its clients, partners and to privacy commissioners that it has the capacity to comply and has complied with its legal obligations?
+Accountability has a number of important requirements. All organizations which process personal data are required to implement and maintain privacy protection program. Policies and processes are needed, and training of employees required. Contracts are required when organizations transfer personal information to third parties for processing, to ensure that the information in question is protected in a manner that is comparable to how the organization would protect it. Organizations are expected to have systems in place to respond to requests from individuals for access to (and correction of) their personal information, and they need to be able to respond to complaints from individuals about how personal information is being used and protected.
 
-**Steps in conceiving an effective prevention program include:**
+**Achieving compliance**
 
-* **Identify risk —** Carry out a risk assessment
-* **Define security and privacy policies —** Define objectives for both security and privacy needs
-* **Customize training and awareness programs —** Identify and adapt training for staff
-* **Keep information systems current and up to date —** Audit information systems and define update procedures
-* **Install preventive controls —** Install firewalls, endpoint security and activity monitors  
+![4 step compliance methodology](/img/compliance4stepmethodology.png)
 
-### We help you avoid a crisis
-Organizations of all sizes need to determine their key information assets, identify where vulnerabilities lie and design security procedures that will protect them from accidental loss or cyberattack. Putting in place a comprehensive plan is what sets apart an entity which recovers from an incident or cyberattack from one which will fail.
+**Beyond compliance**  
+Identifying where an organization can gain a competitive advantage while complying with local and international privacy laws should be a top priority for any organization looking to thrive in an increasingly data-driven environment. Boosting operational efficiency, increasing sales, fostering trust, brand-building and corporate reputation can all be gained by developing a tailored privacy management program. Identifying and purging sensitive, redundant, obsolete and trivial data of no business value lowers operational costs. Lean, fine-tuned databases of highly relevant data increase productivity and efficiency. 
 
-To hear how we can help you ensure measures are in place to protect your data, get in touch. [**Contact us**]({{ site.baseurl }}/contact)
+To hear how we can help you build a privacy management program that benefits all areas of your organization, get in touch. Contact us [**Contact us**]({{ site.baseurl }}/contact)
