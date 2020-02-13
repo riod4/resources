@@ -1,7 +1,7 @@
 ---
 layout:     services
 title:      "Ensure Continuity"
-subtitle:   "Developing plans to mitigate potential privacy incidents."
+subtitle:   "Developing plans to mitigate privacy incidents."
 description: The biggest mistake organizations of all sizes make is waiting until after a privacy incident or cyber-attack to define a continuity plan. It may be too late!"
 date:       2017-01-24 12:00:00
 permalink:  /ensure-continuity
@@ -13,7 +13,7 @@ header-credit-link:
 header-license:
 ---
 
-## We increase your resilience to future threats
+## Increase your resilience
 If an organization processes personal data it must have in place appropriate technical and organizational measures to ensure a level of security appropriate to the risk posed to the personal data being processed. Consequently, a key element of any personal data security policy is being able, where possible, to prevent a personal data breach and, where it nevertheless occurs, to react to it in a timely manner. This requires measures to:
 
 1.	Prevent a personal data breach
