@@ -18,16 +18,14 @@ The most common cause of privacy breaches is human error. Such mistakes include 
 
 In addition to being good practice, to avoid privacy breaches, privacy training is required by law in some countries, Canada being one such country. The Personal Information Protection and Electronic Documents Act (PIPEDA) states that: "Organizations shall implement policies and practices to give effect to the principles, including… training staff and communicating to staff information about the organization's privacy policies and practices...". In addition, provincial privacy commissioners are clear that training is implicitly required to achieve the accountability and security provisions in provincial privacy legislation. Therefore, organizations should implement training programs that include: 
 
-- General privacy training for all new employees;
-- Role specific training for relevant employee groups; and 
+- General privacy training for all employees;
+- Role specific training; and 
 - Regular training updates.
 
 **General training for all employees**  
-Training should be mandatory for all new employees before they access personal information. This general training should, at a minimum:
+General privacy training should be mandatory for all employees. This general training should, at a minimum:
 
 - Ensure that employees are aware that laws apply to collection, use, storage and disclosure of personal information, and failure to comply with such laws can have consequences both for the individual and the organization; 
-- Include an overview of consent requirements under applicable laws, including how to obtain consent, as well as when consent can be implied and how it can be withdrawn; 
-- Provide an overview of the purposes for which the organization collects, uses and discloses personal information, so that employees can communicate this information to customers and other third parties; 
 - Provide information respecting the organization's privacy policies, including where to find those policies and how to direct customers to the policies; 
 - Provide guidelines for portable media devices (e.g., minimize their use, ensure they are kept secure, require encryption); 
 - Review guidelines for acceptable passwords and discuss restrictions on sharing of passwords; 
