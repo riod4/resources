@@ -39,7 +39,7 @@ The quote by McGeorge Bundy illustrates the importance of identifying key assets
 
 With the regulatory climate around the world for personal data protection heating up, establishing effective data privacy controls is a vital. The growth of data-driven applications increases the risks of personal data abuse. By setting up clear guidelines, raising employee awareness, embracing accountability and transparency in how they manage personal data, organizations boost loyalty and trust, improving their customer relationships.
 
-### Beyond compliance – We leverager your privacy investment  
+### Beyond compliance – We leverage your privacy investment  
 Within an organization, privacy is essential to establishing and maintaining trust. If customers, clients or employees believe that their personal information will be handled respectfully, in an open and transparent manner, with strong, reasonable safeguards, and made accessible to them at their request, this fosters trust and a positive relationship. If customers are typically considered a business’ greatest asset, then their personal information must be considered one as well. Organizations will want to build and protect their assets, and personal information, as an asset, is no different. An accountable organization can demonstrate to customers, employees, shareholders, and regulators that it values privacy, not only for compliance reasons, but also because privacy makes good business sense.
 
 
