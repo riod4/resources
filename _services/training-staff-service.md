@@ -14,11 +14,13 @@ header-license: CC0 Creative Commons
 ---
 
 ## Make people part of the solution
-Data collected in jurisdictions with mandatory breach reporting indicates that the most common cause of privacy breaches is human error. Such mistakes include inappropriate document disposal, loss of unencrypted portable data storage devices, sharing/disclosing passwords, misdirected faxes, and allowing all email addresses to be viewable in mass emails. Privacy training can avoid these types of errors by ensuring that employees understand their obligations under applicable laws and policies, as well as how these laws and policies apply to their every day activities.
+The most common cause of privacy breaches is human error. Such mistakes include inappropriate document disposal, loss of unencrypted portable data storage devices, sharing/disclosing passwords, misdirected faxes, and allowing all email addresses to be viewable in mass emails. Privacy training can avoid these types of errors by ensuring that employees understand their obligations under applicable laws and policies, as well as how these laws and policies apply to their every day activities.
 
-In addition to being good practice, to avoid privacy breaches, privacy training is required by law in some countries, Canada being one such country. Article 4.1.4 of the Personal Information Protection and Electronic Documents Act states that: "Organizations shall implement policies and practices to give effect to the principles, including… training staff and communicating to staff information about the organization's privacy policies and practices...". In addition, case law and guidelines published by provincial privacy commissioners are clear that training is implicitly required pursuant to accountability and security provisions in substantially similar provincial privacy legislation.
+In addition to being good practice, to avoid privacy breaches, privacy training is required by law in some countries, Canada being one such country. The Personal Information Protection and Electronic Documents Act (PIPEDA) states that: "Organizations shall implement policies and practices to give effect to the principles, including… training staff and communicating to staff information about the organization's privacy policies and practices...". In addition, provincial privacy commissioners are clear that training is implicitly required to achieve the accountability and security provisions in provincial privacy legislation. Therefore, organizations should implement training programs that include: 
 
-Therefore, organizations should implement training programs that include: (1) general privacy training for all new employees; (2) role specific training for relevant employee groups; and (3) regular training updates.
+- General privacy training for all new employees;
+- Role specific training for relevant employee groups; and 
+- Regular training updates.
 
 **General training for all employees**  
 Training should be mandatory for all new employees before they access personal information. This general training should, at a minimum:
