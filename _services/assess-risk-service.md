@@ -2,7 +2,7 @@
 layout:     services
 title:      "Assess Readiness"
 subtitle:   "Proposing data privacy solutions tailored to your objectives."
-description: "A risk assessment is a valuable tool and the first step for an organization searching to mitigate risks and achieve a higher RIO on its privacy investments."
+description: "As consumers embrace the convenience of data-driven platforms, data privacy and security will not only be a risk management issue, but a competitive advantage."
 date:       2017-01-21 12:00:00
 permalink:  /assess-risk
 author:     "dario"
@@ -13,7 +13,7 @@ header-credit-link: https://pixabay.com/en/hand-magnifying-glass-earth-globe-124
 header-license: CC0 Creative Commons
 ---
 
-## Private data is a valuable asset
+## Data is at the core of your business
 Increasingly our world runs on data; some of it critical, much of it confidential. Information has become one of the most valuable assets an organization possesses. This [Harvard Business School article](https://digit.hbs.org/submission/caesars-entertainment-what-happens-in-vegas-ends-up-in-a-1billion-database/){:rel="nofollow noopener noreferrer"}{:target="_blank"} highlights Caesar’s Entertainment loyalty program, _Total Rewards_;
 
 > ### The most valuable asset in the Caesar’s Entertainment Corp. isn’t the fabulously-tacky Roman-themed resort on the Las Vegas strip.  It’s the company’s big data loyalty program, valued at $1 billion.
@@ -39,8 +39,8 @@ The quote by McGeorge Bundy illustrates the importance of identifying key assets
 
 With the regulatory climate around the world for personal data protection heating up, establishing effective data privacy controls is a vital. The growth of data-driven applications increases the risks of personal data abuse. By setting up clear guidelines, raising employee awareness, embracing accountability and transparency in how they manage personal data, organizations boost loyalty and trust, improving their customer relationships.
 
-### Beyond compliance – We leverage your privacy investment  
-Within an organization, privacy is essential to establishing and maintaining trust. If customers, clients or employees believe that their personal information will be handled respectfully, in an open and transparent manner, with strong, reasonable safeguards, and made accessible to them at their request, this fosters trust and a positive relationship. If customers are typically considered a business’ greatest asset, then their personal information must be considered one as well. Organizations will want to build and protect their assets, and personal information, as an asset, is no different. An accountable organization can demonstrate to customers, employees, shareholders, and regulators that it values privacy, not only for compliance reasons, but also because privacy makes good business sense.
+### Leverage your privacy investment 
+Within an organization, privacy is essential to establishing and maintaining trust. If customers, clients or employees believe that their personal information will be handled respectfully, in an open and transparent manner, with strong, reasonable safeguards, and made accessible to them at their request, it fosters trust and a positive relationship. If customers are typically considered a business’ greatest asset, then their personal information must be considered one as well. Organizations will want to build and protect their assets, and personal information, as an asset, is no different. An accountable organization can demonstrate to customers, employees, shareholders, and regulators that it values privacy, not only for compliance reasons, but also because privacy makes good business sense.
 
 
 To hear how we can help you maximize your privacy invesments, get in touch. [**Contact us**]({{ site.baseurl }}/contact)
