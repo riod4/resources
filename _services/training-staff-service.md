@@ -2,7 +2,7 @@
 layout:     services
 title:      "Training Staff"
 subtitle:   "Guiding employees on compliance, data privacy, and security."
-description: Make people part of the solution; raise your employees' security awareness. With the right training, employees become an organization's strongest security asset."
+description: "Beyond legal compliance, with the right training, all employees can demonstrate they value privacy, building trust with customers and business partners."
 date:       2017-01-23 12:00:00
 permalink:  /training-staff
 author:     "dario"
@@ -13,7 +13,7 @@ header-credit-link: https://pixabay.com/en/social-media-digitization-faces-25284
 header-license: CC0 Creative Commons
 ---
 
-## Giving people the tools to do privacy right
+## Focus on privacy to earn trust
 The most common cause of privacy breaches is human error. Such mistakes include inappropriate document disposal, loss of unencrypted portable data storage devices, sharing/disclosing passwords, misdirected faxes, and allowing all email addresses to be viewable in mass emails. Privacy training can avoid these types of errors by ensuring that employees understand their obligations under applicable laws and policies, as well as how these laws and policies apply to their every day activities.
 
 In addition to being good practice, to avoid privacy breaches, privacy training is required by law in some countries, Canada being one such country. The Personal Information Protection and Electronic Documents Act (PIPEDA) states that: "Organizations shall implement policies and practices to give effect to the principles, including… training staff and communicating to staff information about the organization's privacy policies and practices...". In addition, provincial privacy commissioners are clear that training is implicitly required to achieve the accountability and security provisions in provincial privacy legislation. Therefore, organizations should implement training programs that include: 
@@ -22,7 +22,7 @@ In addition to being good practice, to avoid privacy breaches, privacy training 
 - Role specific training; and 
 - Regular training updates.
 
-**General training for all employees**  
+### General privacy training  
 General privacy training should be mandatory for all employees. This general training should, at a minimum:
 
 - Ensure that employees are aware that laws apply to collection, use, storage and disclosure of personal information, and failure to comply with such laws can have consequences both for the individual and the organization; 
@@ -36,7 +36,7 @@ General privacy training should be mandatory for all employees. This general tra
 
 In general, all employees should be able to recognize privacy issues and understand who they can and should contact for support when such issues arise.
 
-**Role specific training**  
+### Role specific training  
 Training employees on broad, general legal privacy principles is a start. Targeted, role-specific privacy training to relevant employee groups is where organizations will see the largest return on investment. For example:
 
 **Information Technology** – Security will be a main focus of training for IT staff, including the role of such persons when a personal data breach occurs. IT staff will also need to understand legal requirements to implement technological security measures appropriate to the sensitivity of information, so that they can assist the organization to comply with compliance obligations. Of course, IT staff also need to understand restrictions on accessing and altering personal information without a legitimate business purpose, since they are often able to access a broad range of personal information contained on the organization's systems. Finally, IT staff should understand limits on record retention (e.g., restrictions upon retaining personal information after it is no longer necessary or if consent is revoked), since they may design or administer aspects of the organization's system that determine how long information is retained before it is archived or permanently deleted.
@@ -45,7 +45,7 @@ Training employees on broad, general legal privacy principles is a start. Target
 
 These are just a few examples of role specific training. Organizations should take the time to identify employee groups that may require privacy training to help them achieve their operational goals, and develop custom training sessions applicable to each relevant function.
 
-**Training updates**  
+###Training updates 
 Privacy law is rapidly developing worldwide. Furthermore, organizations are rarely static, and the way that they collect, use and disclose personal information changes periodically. Employees should receive training on any new requirements or restrictions arising out of legal, organizational or policy changes. Training updates should also include a refresher on important basics, so that employees remain cognizant of their core obligations throughout their employment.
 
 To hear how we can help your employees get the most from your data, get in touch. [**Contact us**]({{ site.baseurl }}/contact)
