@@ -3,7 +3,7 @@ layout:     services
 title:      "Enhance Value"
 subtitle:   "Optimizing privacy management to improve responsiveness."
 description: "Organizations that get privacy right improve their customer relationships, operational efficiency, and bottom-line results."
-date:       2017-01-22 12:00:00
+date:       2020-01-22 12:00:00
 permalink:  /protect-assets
 author:     "dario"
 header-img: "img/protect-assets.jpg"
