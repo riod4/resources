@@ -45,7 +45,7 @@ Training employees on broad, general legal privacy principles is a start. Target
 
 These are just a few examples of role specific training. Organizations should take the time to identify employee groups that may require privacy training to help them achieve their operational goals, and develop custom training sessions applicable to each relevant function.
 
-###Training updates 
+### Training updates 
 Privacy law is rapidly developing worldwide. Furthermore, organizations are rarely static, and the way that they collect, use and disclose personal information changes periodically. Employees should receive training on any new requirements or restrictions arising out of legal, organizational or policy changes. Training updates should also include a refresher on important basics, so that employees remain cognizant of their core obligations throughout their employment.
 
 To hear how we can help your employees get the most from your data, get in touch. [**Contact us**]({{ site.baseurl }}/contact)
