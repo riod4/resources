@@ -2,7 +2,7 @@
 layout:     services
 title:      "Ensure Continuity"
 subtitle:   "Recovering trust is more costly than protecting private data. Every organization should have a proven plan in place to mitigate a potential privacy incident."
-date:       2017-01-24 12:00:00
+date:       2020-01-24 12:00:00
 permalink:  /ensure-continuity
 author:     "dario"
 header-img: "img/ensure-continuity.jpg"
