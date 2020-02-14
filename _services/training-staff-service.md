@@ -3,7 +3,7 @@ layout:     services
 title:      "Training Staff"
 subtitle:   "Guiding employees on compliance, data privacy, and security."
 description: "Beyond legal compliance, with the right training, all employees can demonstrate they value privacy, building trust with customers and business partners."
-date:       2017-01-23 12:00:00
+date:       2020-01-23 12:00:00
 permalink:  /training-staff
 author:     "dario"
 header-img: "img/training-staff.jpg"
