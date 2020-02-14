@@ -3,7 +3,7 @@ layout:     services
 title:      "Assess Readiness"
 subtitle:   "Proposing data privacy solutions tailored to your objectives."
 description: "As consumers embrace the convenience of data-driven platforms, data privacy and security will not only be a risk management issue, but a competitive advantage."
-date:       2017-01-21 12:00:00
+date:       2020-01-21 12:00:00
 permalink:  /assess-risk
 author:     "dario"
 header-img: "img/assess-risk.jpg"
