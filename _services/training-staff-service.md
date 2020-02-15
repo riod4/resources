@@ -14,7 +14,7 @@ header-license: CC0 Creative Commons
 ---
 
 ## Focusing on privacy builds trust
-The most common cause of privacy breaches is human error. It may be the loss of unencrypted portable devices, sharing/disclosing passwords, misdirected faxes, and allowing all email addresses to be viewable in mass emails. Privacy training can avoid these types of errors by ensuring that employees understand their obligations under applicable laws and policies, as well as how these laws and policies apply to their every day activities.
+The most common cause of privacy breaches is human error. It may be the loss of unencrypted portable devices, sharing/disclosing passwords, or allowing all email addresses to be viewable in mass emails. Privacy training can avoid these types of errors by ensuring that employees understand their obligations under applicable laws and policies, as well as how these laws and policies apply to their every day activities.
 
 In addition to being good practice, to avoid privacy breaches, privacy training is required by law in some countries, Canada being one such country. In addition, provincial privacy commissioners are clear that training is implicitly required to achieve the accountability and security provisions in provincial privacy legislation. Therefore, organizations should implement training programs that include: 
 
