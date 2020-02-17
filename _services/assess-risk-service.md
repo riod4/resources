@@ -25,7 +25,7 @@ The data stored in the _Total Rewards_ loyalty program was estimated to be worth
 -- <cite>World Economic Forum</cite>
 
 ### Identify data, business processes and people 
-Your organization may produce and store mission critical data, intellectual property, patents, business methodologies, and an increasing amount of personal data. How can you effectively assign the resources needed to secure your sensitive data? By identifying personal data, business processes and key people, you can focus your efforts on securing key elements against loss or threats. Understanding what assets are vital to your organization helps direct resources efficiently and effectively.
+Your organization may produce and store mission critical data, intellectual property, patents, business methodologies, and an increasing amount of personal data. How can you effectively assign the resources needed to secure your sensitive data? By identifying critical data, business processes and key people, you can focus your efforts on securing key elements against loss or threats. Understanding what assets are vital to your organization helps direct resources efficiently and effectively.
 
 > ### "If we guard our toothbrushes and diamonds with equal zeal, we will lose fewer toothbrushes and more diamonds.”  
 -- <cite>McGeorge Bundy, US National Security Advisor speaking to President John F. Kennedy</cite>
