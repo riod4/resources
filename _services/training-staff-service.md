@@ -13,7 +13,7 @@ header-credit-link: https://pixabay.com/en/social-media-digitization-faces-25284
 header-license: CC0 Creative Commons
 ---
 
-## Builing trust by protecting privacy
+## Building trust by protecting privacy
 The most common cause of privacy breaches is human error. It may be the loss of unencrypted portable devices, sharing/disclosing passwords, or allowing all email addresses to be viewable in mass emails. Privacy training can avoid these types of errors by ensuring that employees understand their roles and obligations under applicable laws and policies, as well as how these laws and policies apply to their every day activities. In addition to being good practice, to avoid privacy breaches, privacy training is now required by law in many countries. Every member of an organization should be reminded that treating people with respect will foster trust. Protecting private data is how a data-driven organization shows it respects people who share their personal data. To foster trust organizations should implement training programs that include: 
 
 - General privacy training for all employees;
