@@ -6,7 +6,7 @@ description: "Beyond legal compliance, with the right training, all employees ca
 date:       2020-01-23 12:00:00
 permalink:  /training-staff
 author:     "dario"
-header-img: "img/training-staff.jpg"
+header-img: "img/training-staff.png"
 header-title:
 header-author:
 header-credit-link: https://pixabay.com/en/social-media-digitization-faces-2528410/
