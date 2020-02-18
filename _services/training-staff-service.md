@@ -1,7 +1,7 @@
 ---
 layout:     services
 title:      "Train people"
-subtitle:   "Guiding employees on compliance, data privacy, and security."
+subtitle:   "Guiding employees on compliance and data privacy."
 description: "Beyond legal compliance, with the right training, all employees can demonstrate they value privacy, building trust with customers and business partners."
 date:       2020-01-23 12:00:00
 permalink:  /training-staff
