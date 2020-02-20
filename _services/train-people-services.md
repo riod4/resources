@@ -4,9 +4,9 @@ title:      "Train people"
 subtitle:   "Guiding employees on compliance and data privacy."
 description: "Beyond legal compliance, with the right training, all employees can demonstrate they value privacy, building trust with customers and business partners."
 date:       2020-01-23 12:00:00
-permalink:  /training-staff
+permalink:  /training-people
 author:     "dario"
-header-img: "img/training-staff.png"
+header-img: "img/training-people.png"
 header-title:
 header-author:
 header-credit-link: https://pixabay.com/en/social-media-digitization-faces-2528410/
