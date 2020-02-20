@@ -4,12 +4,12 @@ title:      "Assess Readiness"
 subtitle:   "Proposing data privacy solutions tailored to your objectives."
 description: "As consumers embrace the convenience of data-driven platforms, data privacy and security will not only be a risk management issue, but a competitive advantage."
 date:       2020-01-21 12:00:00
-permalink:  /assess-risk
+permalink:  /assess-readiness
 author:     "dario"
-header-img: "img/assess-risk.jpg"
+header-img: "img/assess-readiness.jpg"
 header-title:
 header-author:
-header-credit-link: https://pixabay.com/en/hand-magnifying-glass-earth-globe-1248053/
+header-credit-link:
 header-license: CC0 Creative Commons
 ---
 
