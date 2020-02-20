@@ -4,12 +4,12 @@ title:      "Enhance Value"
 subtitle:   "Optimizing privacy management to improve responsiveness."
 description: "Organizations that get privacy right improve their customer relationships, operational efficiency, and bottom-line results."
 date:       2020-01-22 12:00:00
-permalink:  /protect-assets
+permalink:  /enhance-value
 author:     "dario"
-header-img: "img/protect-assets.jpg"
+header-img: "img/enhance-value.jpg"
 header-title:
 header-author:
-header-credit-link: https://pixabay.com/en/computers-information-technology-2652997/
+header-credit-link:
 header-license: CC0 Creative Commons
 ---
 
