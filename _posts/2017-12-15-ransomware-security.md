@@ -9,8 +9,8 @@ author:     "dario"
 header-img: "img/ransomware-security.jpg"
 header-title:
 header-author:
-header-credit-link: https://pixabay.com/en/hacking-cyber-crime-security-hacker-2077124/
-header-license:  CC0 Creative Commons
+header-credit-link:
+header-license:
 ---
 
 ## Protect your organization against ransomware
