@@ -9,8 +9,8 @@ author:     "dario"
 header-img: "img/better-password-security.jpg"
 header-title:
 header-author:
-header-credit-link: https://pixabay.com/en/access-data-password-mask-matrix-694539/
-header-license:  CC0 Creative Commons
+header-credit-link:
+header-license:
 ---
 ## Use password policy to improve security
 The National Institute of Standards and Technology (NIST) has released new Digital Identity Guidelines. Why is this important? Managing digital identities is an important aspect of information security. This NIST document is a great foundation on which to build a password policy which will enable users to better develop their security skills. And that is in everyone’s best interest. Organizations must take it upon themselves to do all they can to promote safe yet frictionless best practices.
