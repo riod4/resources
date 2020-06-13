@@ -9,8 +9,8 @@ author:     "dario"
 header-img: "img/cyber-insurance.jpg"
 header-title:
 header-author:
-header-credit-link: https://pixabay.com/en/matrix-earth-global-international-2502958/
-header-license:  CC0 Creative Commons
+header-credit-link:
+header-license:
 ---
 
 ## Insuring against a major breach
