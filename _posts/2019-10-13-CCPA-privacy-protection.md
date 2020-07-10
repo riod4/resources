@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "CCPA: California Consumer Privacy Act"
-subtitle:   "Come January 2020, non-compliance is risky business"
+subtitle:   "Non-compliance is risky business"
 description: "The regulatory climate around the world for data protection is heating up. Data privacy regulations like the GDPR and CCPA are becoming the norm. Is your business ready?"
 date:       2019-10-13 12:00:00
 permalink:  /ccpa
@@ -15,7 +15,7 @@ header-license:
 
 ---
 
-The state of California is the fifth largest economy of the world; larger than the United Kingdom, France, or India.  In 2020, the California Consumer Privacy Act (CCPA) <sup>[1](#myfootnote1)</sup> goes into effect, and this new privacy law has extra-territorial implications. The CCPA is intended to protect consumers, enhance privacy rights and provide greater transparency for residents of the state of California. The CCPA also empowers consumers to file class action suits for privacy losses without requiring them to show any evidentiary loss of property or money. In the event of a data breach, a business could face civil damages of up to $750 per violation, per consumer or actual damages, whichever is greater, plus any other relief the court deems proper.
+The state of California is the fifth largest economy of the world; larger than the United Kingdom, France, or India.  In 2020 the California Consumer Privacy Act (CCPA) <sup>[1](#myfootnote1)</sup> goes into effect, and this new privacy law has extra-territorial implications. The CCPA is intended to protect consumers, enhance privacy rights and provide greater transparency for residents of the state of California. The CCPA also empowers consumers to file class action suits for privacy losses without requiring them to show any evidentiary loss of property or money. In the event of a data breach, a business could face civil damages of up to $750 per violation, per consumer or actual damages, whichever is greater, plus any other relief the court deems proper.
 
 > ### A business anywhere in the world which suffers a data breach that includes personal data on a few thousand customers in California could face millions of dollars in CCPA fines. 
 
